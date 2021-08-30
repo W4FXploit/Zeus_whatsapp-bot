@@ -6,9 +6,9 @@ const HandleMsg = require('./HandleMsg')
 
    const start = (aruga = new Client()) => {
     console.log(color(figlet.textSync('<<---------->>', { horizontalLayout: 'default' })))
-    console.log(color(figlet.textSync('ZEUS BOT', { horizontalLayout: 'fullt' })))
+    console.log(color(figlet.textSync('W4FXploit BOT', { horizontalLayout: 'fullt' })))
     console.log(color(figlet.textSync('<<---------->>', { horizontalLayout: 'default' })))
-    console.log(color('[DEV]'), color('Zeus', 'yellow'))
+    console.log(color('[DEV]'), color('W4FXploit', 'yellow'))
     console.log(color('[~>>]'), color('BOT Started!', 'green'))
 
     // Mempertahankan sesi agar tetap nyala
